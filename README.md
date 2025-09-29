@@ -60,6 +60,18 @@ True Units Maintained:
 
 No normalization by default to preserve physiological meaning.
 
+Future Work
+
+Potential enhancements that could not be implemented due to time constraints:
+
+Per-channel checkboxes for interactive visibility of individual EEG/ECG channels.
+
+Normalization toggle to compare channel shapes independent of amplitude.
+
+Export options for zoomed-in plots as images or PDFs.
+
+Artifact detection or automated spike highlighting for clinical review.
+
 ## Screenshots in the files section
 
 ## GIF also in the Files section
