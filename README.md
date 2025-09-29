@@ -59,5 +59,8 @@ True Units Maintained:
 
 No normalization by default to preserve physiological meaning.
 
-<img width="1919" height="968" alt="image" src="https://github.com/user-attachments/assets/bfde6138-40c7-4bd2-91fd-8ff103a26f22" />
+## Screenshot
+
+![EEG & ECG Plot]("C:\Users\nagar\Downloads\793dc7cb\1-3cfcb2f9.png")
+
 
