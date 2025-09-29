@@ -1,5 +1,6 @@
 # EEG & ECG Time-Series Viewer
 
+
 ## Project Overview
 This project provides an interactive viewer for EEG and ECG signals.  
 It allows users to scroll, zoom, and explore multiple channels over time while handling scaling differences between EEG (µV) and ECG (mV) signals.
@@ -60,8 +61,22 @@ True Units Maintained:
 No normalization by default to preserve physiological meaning.
 
 ## Screenshots in the files section
-![EEG/ECG Sample](./1-2de7718c.png)
+
 ## GIF also in the Files section
+
+```
+![EEG/ECG Sample](./1-2de7718c.png)
+![EEG/ECG Sample](./1-3cfcb2f9.png)
+![EEG/ECG Sample](./2-2de7718c.png)
+![EEG/ECG Sample](./2-3cfcb2f9.png)
+![EEG/ECG Sample](./3-2de7718c.png)
+![EEG/ECG Sample](./3-3cfcb2f9.png)
+![EEG/ECG Sample](./4-2de7718c.png)
+![EEG/ECG Sample](./4-3cfcb2f9.png)
+
+![EEG & ECG Interactive Plot](gifs/Graph_GIF.gif)
+
+
 
 
 
