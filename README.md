@@ -60,6 +60,7 @@ True Units Maintained:
 No normalization by default to preserve physiological meaning.
 
 ## Screenshots in the files section
+![EEG/ECG Sample](./1-2de7718c.png)
 ## GIF also in the Files section
 
 
