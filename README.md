@@ -74,8 +74,9 @@ No normalization by default to preserve physiological meaning.
 ![EEG/ECG Sample](./4-2de7718c.png)
 ![EEG/ECG Sample](./4-3cfcb2f9.png)
 
-![EEG/ECG Sample](gifs/Graph_GIF.gif)
+
 ![EEG & ECG Interactive Plot](gifs/Graph_GIF.gif)
+![EEG/ECG Sample](gifs/Graph_GIF.gif)
 
 
 
