@@ -60,5 +60,10 @@ True Units Maintained:
 No normalization by default to preserve physiological meaning.
 
 ## Screenshot
-![Image Alt]()
+
+![EEG & ECG Plot](https://github.com/Blanq-one/EEG-ECG-Time-Series-Viewer/blob/159973c611127f12004a44e353d143631075dc31/1-2de7718c.png)
+
+
+
+
 
