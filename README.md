@@ -61,6 +61,4 @@ No normalization by default to preserve physiological meaning.
 
 ## Screenshot
 
-![EEG & ECG Plot]("C:\Users\nagar\Downloads\793dc7cb\1-3cfcb2f9.png")
-
 
